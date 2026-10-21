@@ -18,6 +18,10 @@ I'm a Product Manager at [Shikho](https://shikho.com), an online learning platfo
 | [**CRM AI Filter**](https://thisisassad.com/case-studies/ai-filter) | Type or speak in Bangla or English, and AI builds the filter. |
 | [**Pay by Link**](https://thisisassad.com/case-studies/pay-by-link) | A payment link for any course, shared by WhatsApp or SMS. |
 | [**Pay Bill**](https://thisisassad.com/case-studies/pay-bill) | Students pay a bKash bill themselves or at any bKash shop. |
+| **Pin Filters** | Agents pin the few filters they use most, out of 100+, and apply them in one click from the lead list. |
+| **Share Filter** | A team lead builds a filter once and shares it with a whole agent role, so everyone works the same list. |
+| **WhatsApp Templates** | Ready-made WhatsApp messages, sorted by category, so agents stop typing the same message again and again. |
+| **Survey Card** | Agents ask any lead a set of survey questions, even before they buy, right in the feedback window. |
 
 ### Side projects, live today
 
